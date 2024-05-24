@@ -4,7 +4,7 @@ Computer Organization - Spring 2024
 ## Assignment 1: Assembly code execution on phoeniX RISC-V core
 
 - Name:َarash ardam
-- Team Members:arash ardam - amirhesam bagherie
+- Team Members:arash ardam - amirhesam bagherie  - amirhosein momeni
 - Student ID: 400411045
 - Date: 5/24/2024 
 
